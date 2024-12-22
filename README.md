@@ -4,6 +4,13 @@ Aum Amma
 
 ## Spring Boot
 
+### Preliminaries
+- Introduction of web development technologies
+- Brush up Java concepts
+- Dependency Injection (DI) pattern
+- About Spring and Spring Boot
+- Model-View-Controller (MVC) architecture
+
 ### Getting Started
 - Install JDK 23 (latest one) - https://www.oracle.com/java/technologies/downloads/#jdk23
 - Download and decompress Spring Test Suite (STS) for Eclipse - https://spring.io/tools
