@@ -1,6 +1,6 @@
 # Full Stack Development with Java
 
-Aum Amma
+Aum Amriteswaryai Namah
 
 ## Spring Boot
 
