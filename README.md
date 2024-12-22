@@ -1,17 +1,17 @@
-# fullstack-java
+# Full Stack Development with Java
 
 Aum Amma
 
-# Spring Boot
+## Spring Boot
 
-## Getting Started
+### Getting Started
 - Install JDK 23 (latest one) - https://www.oracle.com/java/technologies/downloads/#jdk23
 - Download and decompress Spring Test Suite (STS) for Eclipse - https://spring.io/tools
 - Launch STS application by navigating into the decompressed folder.
 - Create the workspace under the top-level decompressed folder. This is just a matter of convenience. When you copy STS from one system to another, you will not forget to copy the workspace. That's it.
 - Windows -> Preferences -> Java -> Installed JRE (Add jdk23 folder to be sure latest java version is used).
 
-## Creating a new Spring Started Project
+### Creating a new Spring Started Project
 Typically follow the steps (Sec 1.2 and 1.3) in prescribed book Spring In Action 6th Edition by Craig Walls
 - New Project -> Spring Starter Project
   - Step 1: Give project name, group, artifact, choose Maven type and click Next
