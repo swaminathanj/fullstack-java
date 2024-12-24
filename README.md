@@ -10,7 +10,9 @@ Aum Amriteswaryai Namah
 - Dependency Injection (DI) pattern
 - About Spring and Spring Boot
 - Model-View-Controller (MVC) architecture
-- Reference: https://linux.ime.usp.br/~henrick/[ebook]%20Manning%20-%20Spring%20in%20Action.pdf
+- Reference:
+  - https://github.com/SilverShaded/Spring-Save/blob/main/Spring_in_Action_Sixth_Edition_v7.pdf
+  - https://linux.ime.usp.br/~henrick/[ebook]%20Manning%20-%20Spring%20in%20Action.pdf
 
 ### Getting Started
 - Install JDK 23 (latest one) - https://www.oracle.com/java/technologies/downloads/#jdk23
