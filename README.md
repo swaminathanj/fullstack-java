@@ -35,3 +35,16 @@ Typically follow the steps (Sec 1.2 and 1.3) in prescribed book Spring In Action
 - And repeat the build - launch project - test steps
 - You will make silly mistakes, encounter errors. That's inevitable. Pursue this till you get it right.
 - Keep reading/referring to the section content to get a better grip and understanding of what's in there.
+
+### Lab Exercises
+
+1. Getting started with Spring Boot
+2. Getting the first web page up
+3. Adding resources to the web page
+4. Adding a customized error page
+5. Implementing HTTP GET and POST methods
+6. Retreiving form field values in Spring Boot
+7. Retrieving uploaded file in Spring Boot
+8. Injecting a single data item into the template
+9. Injecting multiple data items repeatedly
+10. Defining and working with model
