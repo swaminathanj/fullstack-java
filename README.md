@@ -46,5 +46,6 @@ Typically follow the steps (Sec 1.2 and 1.3) in prescribed book Spring In Action
 6. Retreiving form field values in Spring Boot
 7. Retrieving uploaded file in Spring Boot
 8. Injecting a single data item into the template
-9. Injecting multiple data items repeatedly
-10. Defining and working with model
+9. Injecting data into the template conditionally
+10. Injecting multiple data items repeatedly
+11. Defining and working with model
